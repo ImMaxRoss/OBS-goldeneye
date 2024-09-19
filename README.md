@@ -43,7 +43,6 @@
 ![Step6](./images/4c.png)
 
 ## Final Step: Select and drag `Window Capture` to underneath `Video Capture Device`
-1. 
 
 ![Final Step](./images/4d.png)
 
